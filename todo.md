@@ -9,6 +9,9 @@
 - [] réussite totale (toutes les tâches d'un développeur = toute activité type prouvé faites) => titre sinon certificat
 - [] chaque réalisation doit être entièrement rédigé sans liste à puces
 - [] le dp doit être imrpimé pour le jour de l'examen   
+- [] l'intitulé de l'example, on peut reprendre le nom de la compétence que l'on a choisi d'illstrer
+- [] les tâches et opérations réalisées, en précisant les conditions: en donnant le contexte de la situation choisie eet la compétence mobilisée en déclinant notre mode d'organisation, ses étapes, procédures, etc.
+- [] les moyens utilisés: on doit indiquer ici les logiciels, outils, équipements, corpus législatifs et/ou tout élément que l'on doit mobiliser pour réaliser les tâches citées dans l'exemple
 
 # partie administrative
 - []  identité
@@ -35,7 +38,7 @@
 - [] our chaque examples 2-3 pages maximum
 - intitulé de l'activité type -> example numéro 1 (numéroter chaque example)
 - expliquer comment on s'organize étape par étape pour mener à bien le travail (il faut utiliser le **je**), c'est aussi ici qu'il faut mentionner les contraintes comme sécurité, efficacité etc... il faut citer les machines, ordinateurs, mode d'emploi techniques utilisés, indiquer les personnes avec qui l'on a fait les tâches et leurs roles
-- informations complémentaires (10 lignes maximum) -> expliquer les raisons pour lesquelles on a choisti ces exemples
+- informations complémentaires (10 lignes maximum) -> vous pouvez ajouter ici (maximum en 10 lignes) toute précision en lien avec l'exemple que vous avez présenté (contraintes, difficultés rencontrées, intérêt et apprentissage via la situation, etc.)
 
 # Documentes illustrants la pratique professionnelles
 - [] 2 documents max par activité type (phto out copie de document produit)
@@ -49,3 +52,14 @@
 - Recopier le DP d'un autre candidat est une fraude
 - Inventer des pratiques professionnelles est une fraude
 - le plagiat est une fraude
+
+# en cas de manque d'experience
+- si l'on a pas d'expérience professionnelle (passée ou en cours), dans le secteur du métier visé, on peut indiquer ici le nom de notre organisme de formation en évoquant les simulations et mises en situation professionnelle que l'on a réalisé au cours de notre parcours
+
+# Format
+- [] Times New Roman 12, avec un interligne de 1,5, sauf les notes en base de page qui sont en simple interligne
+- [] phrases soient courtes et structurées simplement
+- [] Pour les documents annexes, les marges soient de 2,5 cm en haut; 2,5 cm en bas; 2,5 cmd à droite, 3 cm à gauche
+- [] les titres soient en majuscules et en gras
+- [] contenu soit soigné et relu (orthographe, grammaire, ponctuation, etc.)
+
